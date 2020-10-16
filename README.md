@@ -26,10 +26,10 @@ docker-compose up
 
 ore
 
-´´´
+```
 docker-compose run --service-ports web /bin/bash
 $python start.py
-´´´
+```
 
 
 
